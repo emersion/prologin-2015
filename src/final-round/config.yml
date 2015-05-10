@@ -1,0 +1,12 @@
+rules: libprologin2015.so
+verbose: 3
+clients:
+  - ./champion.so
+  - ./champion.so
+names:
+  - Player 1
+  - Player 2
+map: ./default.map
+#map: ./polytechnique.map
+spectators:
+ - /usr/share/stechec2/prologin2015/gui/gui.so
